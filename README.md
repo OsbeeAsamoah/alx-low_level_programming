@@ -1,1 +1,1 @@
-low level programming in C
+More pointers and Arrays AlX project
